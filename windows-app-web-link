@@ -1,0 +1,22 @@
+[
+  {
+    "packageFamilyName": "Microsoft.OfficeHelper_8wekyb3d8bbwe",
+    "paths": [ "/*.csv", "/*.dqy", "/*.iqy", "/*.odc", "/*.ods", "/*.oqy", "/*.rqy", "/*.slk", "/*.xla", "/*.xlam", "/*.xld", "/*.xlk", "/*.xll", "/*.xlm", "/*.xls", "/*.xlsb", "/*.xlshtml", "/*.xlsm", "/*.xlsmhtml", "/*.xlsx", "/*.xlt", "/*.xlthtml", "/*.xltm", "/*.xltx", "/*.xlw", "/*.xlxml", "/*.xml", "/*.odp", "/*.pot", "/*.potm", "/*.potx", "/*.ppa", "/*.ppam", "/*.pps", "/*.ppsm", "/*.ppsx", "/*.ppt", "/*.pptm", "/*.pptx", "/*.pwz", "/*.doc", "/*.docm", "/*.docx", "/*.dot", "/*.dotm", "/*.dotx", "/*.odt", "/*.rtf", "/*.wbk", "/*.wiz" ]
+  },
+  {
+    "packageFamilyName": "Microsoft.Office.Excel_8wekyb3d8bbwe",
+    "paths": [ "/*.csv", "/*.ods","/*.xls", "/*.xlsb", "/*.xlsm", "/*.xlsx" ]
+  },
+  {
+    "packageFamilyName": "Microsoft.Office.PowerPoint_8wekyb3d8bbwe",
+    "paths": [ "/*.odp", "/*.pot", "/*.potm", "/*.potx", "/*.ppa", "/*.ppam", "/*.pps", "/*.ppsm", "/*.ppsx", "/*.ppt", "/*.pptm", "/*.pptx", "/*.pwz" ]
+  },
+  {
+    "packageFamilyName": "Microsoft.Office.Word_8wekyb3d8bbwe",
+    "paths": [ "/*.doc", "/*.docm", "/*.docx", "/*.odt", "/*.rtf" ]
+  },
+  {
+    "packageFamilyName": "Microsoft.Office.Desktop_8wekyb3d8bbwe",
+    "paths": [ "/*.csv", "/*.dqy", "/*.iqy", "/*.odc", "/*.ods", "/*.oqy", "/*.rqy", "/*.slk", "/*.xla", "/*.xlam", "/*.xld", "/*.xlk", "/*.xll", "/*.xlm", "/*.xls", "/*.xlsb", "/*.xlshtml", "/*.xlsm", "/*.xlsmhtml", "/*.xlsx", "/*.xlt", "/*.xlthtml", "/*.xltm", "/*.xltx", "/*.xlw", "/*.xlxml", "/*.xml", "/*.odp", "/*.pot", "/*.potm", "/*.potx", "/*.ppa", "/*.ppam", "/*.pps", "/*.ppsm", "/*.ppsx", "/*.ppt", "/*.pptm", "/*.pptx", "/*.pwz", "/*.doc", "/*.docm", "/*.docx", "/*.dot", "/*.dotm", "/*.dotx", "/*.odt", "/*.rtf", "/*.wbk", "/*.wiz" ]
+  }
+]
